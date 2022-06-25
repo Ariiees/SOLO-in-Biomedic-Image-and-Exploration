@@ -1,2 +1,10 @@
-# SOLO-in-Biomedic-Image-and-Exploration
-A deep learning project using SOLO to classify cells through a Biomedical video
+# What it does
+
+# How we built it
+
+# Related Wrok
+
+# File Description
+
+# Partner
+Zhenglin Zhang, Yunqi XU
